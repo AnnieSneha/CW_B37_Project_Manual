@@ -10,7 +10,7 @@ Frontend
 Demo Site: https://tutorialsninja.com/demo/
 
 ## Video Walkthrough of the project
-
+https://drive.google.com/file/d/11JJ9GextwgjF9e_21DwoudTg4SATe3Rk/view?usp=sharinghttps://drive.google.com/file/d/11JJ9GextwgjF9e_21DwoudTg4SATe3Rk/view?usp=sharing
 ## Features
 1. Checkout process: Adding items to the cart and completing the purchase
 2. Navigation: Ensuring all links on the homepage and during checkout are functional
